@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 More text comment
+Fix after stash
 ## Purpose
 
 MORE TEXT
