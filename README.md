@@ -15,6 +15,6 @@ My config
 My Config 2
 
 ###Copyright
-Git copyright
+Git copyright ALLOT.com
 
 Please issue review
