@@ -5,7 +5,7 @@ More text comment
 ## Purpose
 
 MORE TEXT
-
+MORE CHANGES MY-FEATURE TOO
 Sample website with plenty of files for demos
 
 ## Deployment
