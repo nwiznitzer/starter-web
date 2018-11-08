@@ -11,3 +11,6 @@ My deployment
 ## Config
 My config
 My Config 2
+
+###Copyright
+Git copyright
