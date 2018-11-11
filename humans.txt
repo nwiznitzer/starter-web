@@ -9,8 +9,10 @@
 
     All OF YOU
 	PLEASE REVIEW
+	MY VALUE
 
 # TECHNOLOGY COLOPHON
 
+VALUE
     HTML5, CSS3
     jQuery, Modernizr
